@@ -10,7 +10,7 @@ import java.awt.Insets;
 /**
  * Extends JPanel and implements Cool303Component.
  * Decorator for JPanel object. It has background color and shape can be changed.
- * @author  Mia Wang(260559637), Zhening Zhang(260622324)
+ * @author  Mia Wang(260559637)
  *
  */
 @SuppressWarnings("serial")
